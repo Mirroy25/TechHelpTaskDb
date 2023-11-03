@@ -1,0 +1,44 @@
+{
+  "task":[
+    {
+    "id":1,
+    "client_name":"Luis ",
+    "phone_name": "Motorola G20",
+    "problem":"la pantalla",
+    "component" : " Bateria",
+    "value_progress":10,
+    "delivery_day": "25/10/2003",
+    "income": 20
+    },
+    {
+     "id":2,
+    "client_name":"Eduardo",
+    "phone_name": "Motorola G10",
+    "problem":"Se quemo ",
+    "component" : "Pantalla ",
+    "value_progress": 0,
+    "delivery_day": "25/10/2003",
+    "income": 20
+    },
+    {
+     "id":3,
+    "client_name":"Luis Eduardo",
+    "phone_name": "Samsung G50",
+    "problem":"Se quemo la pantalla",
+    "component" : "Pantalla Bateria",
+    "value_progress": 0,
+    "delivery_day": "25/10/2003",
+    "income": 20
+    },
+    {
+     "id":4,
+    "client_name":"Luis Eduardo",
+    "phone_name": "Motorola G50",
+    "problem":"Se quemo la pantalla",
+    "component" : "Pantalla Bateria",
+    "value_progress": 0,
+    "delivery_day": "25/10/2003",
+    "income": 20
+    }   
+  ]
+}
