@@ -44,5 +44,43 @@
     "delivery_day": "25/10/2003",
     "income": 20
     }   
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "gonzalo@techelp.com",
+      "password": "gonzalo",
+      "type": "client"
+    },
+    {
+      "id": 2,
+      "email": "juan@techelp.com",
+      "password": "juan",
+      "type": "client"
+    },
+    {
+      "id": 3,
+      "email": "pedro@techelp.com",
+      "password": "pedro",
+      "type": "client"
+    },
+    {
+      "id": 4,
+      "email": "alonso@techelp.com",
+      "password": "alonso",
+      "type": "technical"
+    },
+    {
+      "id": 5,
+      "email": "rafael@techelp.com",
+      "password": "rafael",
+      "type": "technical"
+    },
+    {
+      "id": 6,
+      "email": "mariana@techelp.com",
+      "password": "mariana",
+      "type": "technical"
+    }
   ]
 }
