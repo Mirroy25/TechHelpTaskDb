@@ -1,6 +1,7 @@
 {
   "task":[
     {
+    "technicalId:":1,
     "id":1,
     "client_name":"Luis ",
     "phone_name": "Motorola G20",
@@ -11,6 +12,7 @@
     "income": 20
     },
     {
+      "technicalId:":1,
      "id":2,
     "client_name":"Eduardo",
     "phone_name": "Motorola G10",
@@ -21,6 +23,7 @@
     "income": 20
     },
     {
+      "technicalId:":1,
      "id":3,
     "client_name":"Luis Eduardo",
     "phone_name": "Samsung G50",
@@ -31,6 +34,7 @@
     "income": 20
     },
     {
+      "technicalId:":1,
      "id":4,
     "client_name":"Luis Eduardo",
     "phone_name": "Motorola G50",
